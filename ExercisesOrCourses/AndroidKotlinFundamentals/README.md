@@ -1,0 +1,2 @@
+- https://developer.android.com/courses/kotlin-android-fundamentals/overview
+- https://developer.android.com/codelabs/kotlin-android-training-get-started#0
