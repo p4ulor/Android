@@ -23,6 +23,7 @@ Android (app) notes, code snippets and blueprints for android studio, documentat
 - https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940 (very expensive lol)
 
 ### Tutorials, videos and educative repos
+- [The king - CodingInFlow](https://www.youtube.com/c/CodinginFlow/playlists)
 - https://proandroiddev.com/ (TONS OF STUFF HERE)
 - https://github.com/android/architecture-samples
 - https://github.com/android/architecture-components-samples
