@@ -60,6 +60,7 @@ Android (app) notes, code snippets and blueprints for android studio, documentat
 - https://developer.android.com/kotlin/coroutines
 - https://developer.android.com/codelabs/advanced-kotlin-coroutines#0
 - https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/
+- https://labs.pedrofelix.org/guides/kotlin/coroutines/
 - https://github.com/vveloso/kotlin-concurrency
 - https://github.com/calren/CoroutinesPractice
 

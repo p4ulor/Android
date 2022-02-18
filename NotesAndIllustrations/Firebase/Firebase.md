@@ -9,3 +9,4 @@
 ## Problems and FAQ's
 - https://stackoverflow.com/questions/46590155/firestore-permission-denied-missing-or-insufficient-permissions
 - https://stackoverflow.com/questions/62855244/do-firebase-cloud-functions-run-off-of-the-main-thread-in-android
+- https://medium.com/nerd-for-tech/secure-your-firebases-google-services-json-file-in-android-16680f8e5fb4
