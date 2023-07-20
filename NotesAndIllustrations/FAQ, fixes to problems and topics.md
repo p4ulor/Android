@@ -74,7 +74,8 @@
 - https://developer.android.com/training/data-storage/room/referencing-data
 - [Whys is my DB not being created? Because it's DAO is not accessed or the db is not manipulated in any part of the app... yes it's kinda stupid](https://stackoverflow.com/questions/47619718/room-database-not-created)
 - [type-converter-error-on-android-room-database](https://stackoverflow.com/questions/67660824/type-converter-error-on-android-room-database#comment119593282_67660824)
-- [Room query returns null? Guess what, the stupid livedata requires someone to observe it, otherwise it wont even update, hilarious. Tremendous](https://stackoverflow.com/questions/50844063/room-query-returns-null)
+- [Room query returns null? Guess what, the stupid livedata requires someone to observe it, otherwise it wont even update, hilarious. Tremendous](https://stackoverflow.com/questions/50844063/room-query-returns-null). On rare occurences: uninstall and install app again
+- [Room replace on duplicate key](https://stackoverflow.com/a/54260385/9375488)
 
 ## Unit testing
 - https://proandroiddev.com/unit-testing-on-android-9c15632848c
@@ -87,6 +88,20 @@
 - [recyclerview item click listener](https://medium.com/android-gate/recyclerview-item-click-listener-the-right-way-daecc838fbb9)
 - [recyclerview inside scrollview is not working](https://stackoverflow.com/a/38995399/9375488 )
 - https://stackoverflow.com/questions/28709220/understanding-recyclerview-sethasfixedsize
+- [display objects of different types in a recyclerview](https://medium.com/@zackcosborn/display-objects-of-different-types-in-a-recyclerview-8b7d8e3968aa)
+- [Handle on item long click on recycler view](https://stackoverflow.com/questions/30078344/handle-on-item-long-click-on-recycler-view)
+- [How to create context menu for RecyclerView](https://stackoverflow.com/questions/26466877/how-to-create-context-menu-for-recyclerview)
+- [how-to-create-options-menu-for-recyclerview-in-android-using-kotlin](https://www.geeksforgeeks.org/how-to-create-options-menu-for-recyclerview-in-android-using-kotlin/)
+- [Add Context Menu to RecyclerView](https://gist.github.com/gauravat16/e8e03496a4056829e65dede3c236da28)
+- https://www.bswen.com/2021/05/others-android-how-to-add-context-menu-to-recyclerview.html
+- [How to properly highlight selected item on RecyclerView](https://stackoverflow.com/questions/27194044/how-to-properly-highlight-selected-item-on-recyclerview)
+- [How to select all items listed in recyclerview](https://stackoverflow.com/questions/45578817/how-to-select-all-items-which-listed-in-recyclerview)
+- [How to update RecyclerView Adapter Data](https://stackoverflow.com/questions/31367599/how-to-update-recyclerview-adapter-data)
+### Youtube
+- [Long press to select multi item in RecyclerView](https://www.youtube.com/watch?v=EeE17wOLNUw)
+- [RecyclerView with Floating Context Menu](https://www.youtube.com/watch?v=fl5BB3I3MvQ)
+- [Multiple Item Selection in RecyclerView - Android RecyclerView](https://www.youtube.com/watch?v=r75l8GFYoXc)
+- [Get Selected Item From RecyclerView Using CheckBoxes ArrayList](https://www.youtube.com/watch?v=5YFPkFaLcIo)
 
 ## Fragments
 - https://developer.android.com/guide/fragments/lifecycle
@@ -95,6 +110,7 @@
 - https://aalishan565.medium.com/correlation-between-activity-lifecycle-and-fragment-lifecycle-ff0a2c3d9e2f
 - https://stackoverflow.com/questions/13086840/actionbar-up-navigation-with-fragments
 - https://developer.android.com/codelabs/basic-android-kotlin-training-shared-viewmodel#0
+- [getting context](https://stackoverflow.com/questions/8215308/using-context-in-a-fragment)
 
 ## Text and TextViews
 - https://stackoverflow.com/questions/5382490/how-to-add-a-line-break-in-an-android-textview
@@ -117,15 +133,21 @@
 - https://www.youtube.com/watch?v=zVpH19OlIIU
 - https://www.youtube.com/watch?v=v3p-ImUJc9U
 
+## Spinner / Drop down list
+- [How to create a drop-down list?](https://stackoverflow.com/questions/13377361/how-to-create-a-drop-down-list)
+- [Initialize the Spinner values with String array](https://stackoverflow.com/questions/28020525/how-to-initialize-the-spinner-values-with-string-array)
+
 ## Intent and context
 - [What are intent-filters in Android?](https://stackoverflow.com/questions/3321514/what-are-intent-filters-in-android)
 - [Is intent preserved during activity recreation](https://stackoverflow.com/questions/15414093/android-is-the-intent-preserved-during-activity-recreation)
 - [What is 'Context' on Android?](https://stackoverflow.com/questions/3572463/what-is-context-on-android?rq=1)
 - [Intent filter types](https://developer.android.com/guide/components/intents-filters#Types)
 
-## Sharing .APK
+## Sharing .APK and security
 - https://stackoverflow.com/questions/6235290/how-to-make-apk-secure-protecting-from-decompile
 - https://stackoverflow.com/questions/4235065/is-it-safe-to-share-apk-files
+- https://medium.com/@n.agarwal2105/how-to-secure-your-android-apps-28f35cc35998
+- https://medium.com/nerd-for-tech/secure-your-firebases-google-services-json-file-in-android-16680f8e5fb4
 
 ## Misc
 - [What is the difference between "px", "dip", "dp" and "sp"?](https://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dip-dp-and-sp)
@@ -140,6 +162,7 @@ android-difference-between-parcelable-and-serializable)
 - [invalidate and postinvalidate](https://stackoverflow.com/questions/7596370/what-is-the-difference-between-androids-invalidate-and-postinvalidate-metho)
 - https://www.brainbell.com/android/palette.html
 - [android.app.Application cannot be cast to android.app.Activity](https://stackoverflow.com/questions/23546303/android-app-application-cannot-be-cast-to-android-app-activity)
+- [One Activity and all other Fragments](https://stackoverflow.com/questions/12154505/one-activity-and-all-other-fragments)
 
 
 

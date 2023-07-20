@@ -53,6 +53,7 @@ Android (app) notes, code snippets and blueprints for android studio, documentat
 - https://www.tutlane.com/tutorial/android
 - https://www.studytonight.com/android/
 - https://learntodroid.com/
+- https://www.droidcon.com/
 
 ### Coroutines stuff
 - https://manuelvivo.dev/tag/coroutines/
@@ -68,6 +69,8 @@ Android (app) notes, code snippets and blueprints for android studio, documentat
 ## Compose
 - https://github.com/android/compose-samples
 - https://github.com/android/android-dev-challenge-compose
+- https://foso.github.io/Jetpack-Compose-Playground/
+- https://developer.android.com/reference/kotlin/androidx/compose/material/package-summary
 
 ## Android and firebase
 - https://firebase.google.com/docs/storage/android/start
@@ -77,6 +80,9 @@ Android (app) notes, code snippets and blueprints for android studio, documentat
 - https://dribbble.com/
 - https://dribbble.com/tags/android_development
 - https://www.uplabs.com/templates/android
+
+## Styling
+- https://m3.material.io/
 
 
 ## For sources of colors and icons [see my hub of information](https://github.com/p4ulor/My-hub-of-information) folder "Useful websites, productivity and editing" file "Icon, color and fonts sources.md"
