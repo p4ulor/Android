@@ -76,6 +76,9 @@ Android (app) notes, code snippets and blueprints for android studio, documentat
 - https://firebase.google.com/docs/storage/android/start
 - https://github.com/firebase/snippets-android
 
+## Testing frameworks & guides
+- https://robolectric.org/
+
 ## Templates and inspiration
 - https://dribbble.com/
 - https://dribbble.com/tags/android_development
