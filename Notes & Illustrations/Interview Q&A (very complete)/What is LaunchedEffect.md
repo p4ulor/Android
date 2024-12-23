@@ -1,0 +1,5 @@
+# What is LaunchedEffect?
+
+LaunchedEffect in Compose serves the purpose of safely invoking suspend functions. When LaunchedEffect enters the composition, it launches a coroutine with the code block provided as a parameter. The coroutine will be canceled when LaunchedEffect leaves the composition. Additionally, LaunchedEffect restarts when one of the key parameters changes. However, in some situations, you may want to capture a value in your effect that, if it changes, should not trigger a re-launch of the effect. In such cases, you need to use rememberUpdatedState to create a reference to that value that can be captured and updated. This approach is useful for effects that involve long-running operations, where creating and restarting them could be costly or not allowed.
+
+You can use LaunchedEffect to invoke suspend functions, such as displaying a Snackbar notification when an error occurs in the UI state. The coroutine will be canceled when the error is resolved.
