@@ -2,7 +2,7 @@
 ### Wifi
 - adb shell svc wifi enable
 - adb shell svc wifi disable
-- adb shell dumpsys wifi | grep "enabled|disabled
+- adb shell dumpsys wifi | grep "enabled|disabled"
 
 ### Connect, Reboot, Install & uninstall
 - adb connect localhost:5555
@@ -27,7 +27,8 @@ https://www.baeldung.com/linux/ps-command
 - adb shell pm grant com.company.appname android.permission.READ_EXTERNAL_STORAGE
 - adb shell input text_you_wanna_paste //useful to copy paste complex text into the emulator
 - adb logcat | grep -F "!!!" //listen to logcat with a string
-- adb shell dumpsys display -> to list all displays 
+- adb shell dumpsys display // to list all displays 
+- adb shell pm list features // list device features, mostly related to hardware
 
 ### Scrcpy
 - scrcpy --tcpip=127.0.0.1

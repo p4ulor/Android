@@ -80,6 +80,7 @@ Android (app) notes, code snippets and blueprints for android studio, documentat
 - https://github.com/android/android-dev-challenge-compose
 - https://foso.github.io/Jetpack-Compose-Playground/
 - https://developer.android.com/reference/kotlin/androidx/compose/material/package-summary
+- Great app to explore compose and material 3 library -> https://play.google.com/store/apps/details?id=androidx.compose.material.catalog
 
 ## Android and firebase
 - https://firebase.google.com/docs/storage/android/start
